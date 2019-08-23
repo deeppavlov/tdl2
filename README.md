@@ -1,6 +1,7 @@
 ![TDL logo](/banner3.gif)
 
-This is a GitHub page of the 2nd part of Theoretical Deep Learning course held by Neural Networks and Deep Learning Lab., MIPT. For the first part, see [this page](https://github.com/deepmipt/tdl). 
+This is a GitHub page of the 2nd part of Theoretical Deep Learning course held by Neural Networks and Deep Learning Lab., MIPT. For the first part, see [this page](https://github.com/deepmipt/tdl).
+**Note that two parts are mostly mutually independent.**
 
 The working language of this course is Russian.
 
