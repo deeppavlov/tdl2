@@ -1,12 +1,13 @@
 ![TDL logo](/banner3.gif)
 
-This is a GitHub page of the 2nd part of Theoretical Deep Learning course held by Neural Networks and Deep Learning Lab., MIPT. For the first part, see [this page](https://github.com/deepmipt/tdl). 
+This is a GitHub page of the 2nd part of Theoretical Deep Learning course held by Neural Networks and Deep Learning Lab., MIPT. For the first part, see [this page](https://github.com/deepmipt/tdl).
+**Note that two parts are mostly mutually independent.**
 
 The working language of this course is Russian.
 
 **Location:** Moscow Institute of Physics and Technology, ФИЗТЕХ.ЦИФРА building, room 5-22.
 
-**Time:** to be announced.
+**Time:** vote in [doodle](https://doodle.com/poll/xs8iuqd94heq789w). Planning to start from the 2nd week of september.
 
 **Videos** will be added to [this](https://www.youtube.com/playlist?list=PLt1IfGj6-_-dMa3Ff8mwjq1yOGijJ89Wa) playlist.
 
@@ -20,11 +21,11 @@ This syllabus is not final and may change.
 
 1. Introduction. Short recap of TDL#1. Course structure. Organization notes.
 
-2. Worst-case generalization bounds. Growth function. VC-dimension and its variants.
+2. Worst-case generalization bounds. Growth function. Rademacher complexity. Covering numbers. VC-dimension and its variants.
 
 3. PAC-Bayes bounds. Compressibilty approach.
 
-4. Gradient descent dynamics for matrix factorization.
+4. Implicit bias of gradient descent.
 
 ## Prerequisites:
 
