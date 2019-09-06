@@ -7,7 +7,7 @@ The working language of this course is Russian.
 
 **Location:** Moscow Institute of Physics and Technology, ФИЗТЕХ.ЦИФРА building, room 5-22.
 
-**Time:** vote in [doodle](https://doodle.com/poll/xs8iuqd94heq789w). Planning to start from the 2nd week of September.
+**Time:** Monday, 10:45. The first lecture (on September 9) will start at 11:00.
 
 **Videos** will be added to [this](https://www.youtube.com/playlist?list=PLt1IfGj6-_-dMa3Ff8mwjq1yOGijJ89Wa) playlist.
 
