@@ -9,7 +9,7 @@ The working language of this course is Russian.
 
 **Time:** Monday, 10:45. The first lecture (on September ~9~ 16) will start at ~11:00~ 10:45.
 
-**Videos** will be added to [this](https://www.youtube.com/playlist?list=PLt1IfGj6-_-dMa3Ff8mwjq1yOGijJ89Wa) playlist.
+**Videos** will be added to [this](https://www.youtube.com/playlist?list=PLt1IfGj6-_-eiAGKvcZrHCp1mejmxMCiX) playlist.
 
 Lecture slides, homework assignments and videos will appear in this repo and will be available for everyone. However, we can guarantee that we will check your homework only if you are a MIPT student.
 
@@ -37,7 +37,7 @@ This syllabus is not final and may change.
     
 ## Grading:
 
-This course will contain N labs and M theoretical assignments. 
+This course will contain 1 lab and >=1 theoretical assignments. 
 There also will be an oral exam (in the form of interview) at the end of the course.
 
 Let p_{hw} = "your points for homeworks" / "total possible points for homeworks (excluding extra points)". Define p_{exam} analogously.
