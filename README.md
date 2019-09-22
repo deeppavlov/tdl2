@@ -19,13 +19,15 @@ Further announcements will be in our Telegram chat: https://t.me/joinchat/D_ljjx
 
 This syllabus is not final and may change.
 
-1. Introduction. Short recap of TDL#1. Course structure. Organization notes.
+1. **16.09.19** Introduction. Short recap of TDL#1. Course structure. Organization notes. [Slides](/slides/Intro.pdf), [video](https://youtu.be/xwfAiaJ74Vk).
 
-2. Worst-case generalization bounds. Growth function. Rademacher complexity. Covering numbers. VC-dimension and its variants.
+2. **16.09.19** Worst-case generalization bounds: growth function, VC-dimension. [Slides](/slides/Worst_case_bounds.pdf) (up to page 10), [video](https://youtu.be/fzKGRxk4DXk).
 
-3. PAC-Bayes bounds. Compressibilty approach.
+3. **23.09.19** Worst-case generalization bounds: margin loss, fat-shattering dimension, Rademacher complexity, covering numbers, spectral complexity.
 
-4. Implicit bias of gradient descent.
+4. PAC-Bayes bounds. Compressibilty approach.
+
+5. Implicit bias of gradient descent.
 
 ## Prerequisites:
 
