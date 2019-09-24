@@ -23,11 +23,13 @@ This syllabus is not final and may change.
 
 2. **16.09.19** Worst-case generalization bounds: growth function, VC-dimension. [Slides](/slides/Worst_case_bounds.pdf) (up to page 10), [video](https://youtu.be/fzKGRxk4DXk).
 
-3. **23.09.19** Worst-case generalization bounds: margin loss, fat-shattering dimension, Rademacher complexity, covering numbers, spectral complexity.
+3. **23.09.19** Worst-case generalization bounds: margin loss, fat-shattering dimension, covering numbers. [Slides](/slides/Worst_case_bounds.pdf) (up to page 10, the same as in the previous lecture), [video](https://youtu.be/qheV9dDyLcg).
 
-4. PAC-Bayes bounds. Compressibilty approach.
+4. **30.09.19** Worst-case generalization bounds: Rademacher complexity,  spectral complexity.
 
-5. Implicit bias of gradient descent.
+5. PAC-Bayes bounds. Compressibilty approach.
+
+6. Implicit bias of gradient descent.
 
 ## Prerequisites:
 
