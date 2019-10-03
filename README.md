@@ -25,11 +25,13 @@ This syllabus is not final and may change.
 
 3. **23.09.19** Worst-case generalization bounds: margin loss, fat-shattering dimension, covering numbers. [Slides](/slides/Worst_case_bounds.pdf) (up to page 10, the same as in the previous lecture), [video](https://youtu.be/qheV9dDyLcg).
 
-4. **30.09.19** Worst-case generalization bounds: Rademacher complexity,  spectral complexity.
+4. **30.09.19** Worst-case generalization bounds: McDiarmid inequality, Rademacher complexity,  spectral complexity. [Slides](/slides/Worst_case_bounds.pdf) (pages 11-17), [video](https://youtu.be/4Q3zoMTBamc).
 
-5. PAC-Bayes bounds. Compressibilty approach.
+5. **07.10.19** Worst-case generalization bounds: Dudley's entropy integral, spectral complexity, bound for deep ReLU nets. Failure of uniform bounds.
 
-6. Implicit bias of gradient descent.
+6. PAC-Bayes bounds. Compressibilty approach.
+
+7. Implicit bias of gradient descent.
 
 ## Prerequisites:
 
