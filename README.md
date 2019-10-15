@@ -27,11 +27,19 @@ This syllabus is not final and may change.
 
 4. **30.09.19** Worst-case generalization bounds: McDiarmid inequality, Rademacher complexity,  spectral complexity. [Slides](/slides/Worst_case_bounds.pdf) (pages 11-17), [video](https://youtu.be/4Q3zoMTBamc).
 
-5. **07.10.19** Worst-case generalization bounds: Dudley's entropy integral, spectral complexity, bound for deep ReLU nets. Failure of uniform bounds.
+5. **07.10.19** Worst-case generalization bounds: bound for deep ReLU nets. [Slides](/slides/Worst_case_bounds.pdf) (pages 11-17), [video](https://youtu.be/8MuJM4S3UyM).
 
-6. PAC-Bayes bounds. Compressibilty approach.
+6. **14.10.19** Worst-case generalization bounds: failure of uniform bounds. [Slides](/slides/Worst_case_bounds.pdf) (pages starting from 18). PAC-bayesian bounds: at most countable hypothesis classes. [Slides](/slides/PAC_bayesian_bounds.pdf) (up to page 3). Video is not ready yet.
 
-7. Implicit bias of gradient descent.
+7. **21.10.19** PAC-bayesian bounds: uncountable hypothesis classes. Bound optimization for stochastic predictor.
+
+8. **28.10.19** PAC-bayesian bounds: uniform bound for deep ReLU nets.
+
+9. **04.11.19** PAC-bayesian bounds: uniform bound for deep ReLU nets. Coding-based prior.
+
+10. **11.11.19** PAC-bayesian bounds: compression approach.
+
+11. Implicit bias of gradient descent.
 
 ## Prerequisites:
 
