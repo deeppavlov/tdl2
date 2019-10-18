@@ -29,15 +29,15 @@ This syllabus is not final and may change.
 
 5. **07.10.19** Worst-case generalization bounds: bound for deep ReLU nets. [Slides](/slides/Worst_case_bounds.pdf) (pages 11-17), [video](https://youtu.be/8MuJM4S3UyM).
 
-6. **14.10.19** Worst-case generalization bounds: failure of uniform bounds. [Slides](/slides/Worst_case_bounds.pdf) (pages starting from 18). PAC-bayesian bounds: at most countable hypothesis classes. [Slides](/slides/PAC_bayesian_bounds.pdf) (up to page 3). Video is not ready yet.
+6. **14.10.19** Worst-case generalization bounds: failure of uniform bounds. [Slides](/slides/Worst_case_bounds.pdf) (pages starting from 18). PAC-bayesian bounds: at most countable hypothesis classes. [Slides](/slides/PAC_bayesian_bounds.pdf) (up to page 3). [Video](https://youtu.be/V-yhl7usGkU).
 
 7. **21.10.19** PAC-bayesian bounds: uncountable hypothesis classes. Bound optimization for stochastic predictor.
 
 8. **28.10.19** PAC-bayesian bounds: uniform bound for deep ReLU nets.
 
-9. **04.11.19** PAC-bayesian bounds: uniform bound for deep ReLU nets. Coding-based prior.
+9. **11.11.19** PAC-bayesian bounds: uniform bound for deep ReLU nets. Coding-based prior.
 
-10. **11.11.19** PAC-bayesian bounds: compression approach.
+10. **18.11.19** PAC-bayesian bounds: compression approach.
 
 11. Implicit bias of gradient descent.
 
@@ -51,7 +51,7 @@ This syllabus is not final and may change.
     
 ## Grading:
 
-This course will contain 1 lab and >=1 theoretical assignments. 
+This course will contain 1 lab and >=2 theoretical assignments. 
 There also will be an oral exam (in the form of interview) at the end of the course.
 
 Let p_{hw} = "your points for homeworks" / "total possible points for homeworks (excluding extra points)". Define p_{exam} analogously.
