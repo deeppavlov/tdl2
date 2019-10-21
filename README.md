@@ -31,7 +31,7 @@ This syllabus is not final and may change.
 
 6. **14.10.19** Worst-case generalization bounds: failure of uniform bounds. [Slides](/slides/Worst_case_bounds.pdf) (pages starting from 18). PAC-bayesian bounds: at most countable hypothesis classes. [Slides](/slides/PAC_bayesian_bounds.pdf) (up to page 3). [Video](https://youtu.be/V-yhl7usGkU).
 
-7. **21.10.19** PAC-bayesian bounds: uncountable hypothesis classes. Bound optimization for stochastic predictor.
+7. **21.10.19** PAC-bayesian bounds: uncountable hypothesis classes. [Slides](/slides/PAC_bayesian_bounds.pdf) (pages 3-6). Video is not ready yet.
 
 8. **28.10.19** PAC-bayesian bounds: uniform bound for deep ReLU nets.
 
@@ -51,15 +51,15 @@ This syllabus is not final and may change.
     
 ## Grading:
 
-This course will contain 1 lab and >=2 theoretical assignments. 
+This course will contain 1 lab and 2 theoretical assignments. 
 There also will be an oral exam (in the form of interview) at the end of the course.
 
 Let p_{hw} = "your points for homeworks" / "total possible points for homeworks (excluding extra points)". Define p_{exam} analogously.
 
 Your final grade will be computed as follows:
 grade = min(10, p_{hw} * k_{hw} + p_{exam} * k_{exam}), where the coefficents are:
-* k_{hw} = 4
-* k_{exam} = 8
+* k_{hw} = 6
+* k_{exam} = 6
 
 This numbers are not final and can change.
 
@@ -69,9 +69,11 @@ E-mails should be named as "Lab or theory" + "number" + "-" + "Your Name and Sur
 
 ## Homeworks:
 
+[The 1st theoretical assignment](/hw_theory/tdl2_theory1.pdf) is out! Deadline: 4.11.2019, 12:00 Moscow time.
+
 ## Course staff:
 
-- [Eugene Golikov](https://github.com/varenick) - course admin, lectures
+- [Eugene Golikov](https://github.com/varenick) - course admin, lectures, homeworks
 - [Ivan Skorokhodov](https://github.com/universome) - homeworks
 
 This course is dedicated to the memory of [Maksim Kretov](https://github.com/kretovmk) | 30.12.1986 - 13.02.2019, without whom this course would have never been created.
