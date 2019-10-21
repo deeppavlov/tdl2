@@ -58,7 +58,7 @@ Let p_{hw} = "your points for homeworks" / "total possible points for homeworks 
 
 Your final grade will be computed as follows:
 grade = min(10, p_{hw} * k_{hw} + p_{exam} * k_{exam}), where the coefficents are:
-* k_{hw} = 6
+* k_{hw} = 4
 * k_{exam} = 6
 
 This numbers are not final and can change.
