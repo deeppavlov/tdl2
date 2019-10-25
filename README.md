@@ -31,7 +31,7 @@ This syllabus is not final and may change.
 
 6. **14.10.19** Worst-case generalization bounds: failure of uniform bounds. [Slides](/slides/Worst_case_bounds.pdf) (pages starting from 18). PAC-bayesian bounds: at most countable hypothesis classes. [Slides](/slides/PAC_bayesian_bounds.pdf) (up to page 3). [Video](https://youtu.be/V-yhl7usGkU).
 
-7. **21.10.19** PAC-bayesian bounds: uncountable hypothesis classes. [Slides](/slides/PAC_bayesian_bounds.pdf) (pages 3-6). Video is not ready yet.
+7. **21.10.19** PAC-bayesian bounds: uncountable hypothesis classes. [Slides](/slides/PAC_bayesian_bounds.pdf) (pages 3-6). [Video](https://youtu.be/7rFIVhLXflQ).
 
 8. **28.10.19** PAC-bayesian bounds: uniform bound for deep ReLU nets.
 
