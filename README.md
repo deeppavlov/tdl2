@@ -33,11 +33,11 @@ This syllabus is not final and may change.
 
 7. **21.10.19** PAC-bayesian bounds: uncountable hypothesis classes. [Slides](/slides/PAC_bayesian_bounds.pdf) (pages 3-6). [Video](https://youtu.be/7rFIVhLXflQ).
 
-8. **28.10.19** PAC-bayesian bounds: uniform bound for deep ReLU nets.
+8. **28.10.19** PAC-bayesian bounds: dealing with stochasticity requirement, margin-based bound for deep ReLU nets. [Slides](/slides/PAC_bayesian_bounds.pdf) (pages 7-19). [Video](https://youtu.be/8x4RqMRRsCM).
 
-9. **11.11.19** PAC-bayesian bounds: uniform bound for deep ReLU nets. Coding-based prior.
+9. **11.11.19** PAC-bayesian bounds: margin-based bound for deep ReLU nets, compression approach.
 
-10. **18.11.19** PAC-bayesian bounds: compression approach.
+10. **18.11.19** PAC-bayesian bounds: compression approach, information-thoeretic approach.
 
 11. Implicit bias of gradient descent.
 
