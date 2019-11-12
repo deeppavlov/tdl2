@@ -35,9 +35,9 @@ This syllabus is not final and may change.
 
 8. **28.10.19** PAC-bayesian bounds: dealing with stochasticity requirement, margin-based bound for deep ReLU nets. [Slides](/slides/PAC_bayesian_bounds.pdf) (pages 7-19). [Video](https://youtu.be/8x4RqMRRsCM).
 
-9. **11.11.19** PAC-bayesian bounds: margin-based bound for deep ReLU nets, compression approach.
+9. **11.11.19** PAC-bayesian bounds: margin-based bound for deep ReLU nets. [Slides](/slides/PAC_bayesian_bounds.pdf) (pages 16-20). Video will be available later.
 
-10. **18.11.19** PAC-bayesian bounds: compression approach, information-thoeretic approach.
+10. **18.11.19** Compression-based bounds.
 
 11. Implicit bias of gradient descent.
 
