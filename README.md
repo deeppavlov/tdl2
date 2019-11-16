@@ -70,6 +70,7 @@ E-mails should be named as "Lab or theory" + "number" + "-" + "Your Name and Sur
 ## Homeworks:
 
 ~[The 1st theoretical assignment](/hw_theory/tdl2_theory1.pdf) is out! Deadline: 4.11.2019, 12:00 Moscow time.~
+
 [The 2nd theoretical assignment](/hw_theory/tdl2_theory2.pdf) is out! Deadline: 2.12.2019, 12:00 Moscow time.
 
 ## Course staff:
