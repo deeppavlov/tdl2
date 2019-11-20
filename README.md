@@ -37,7 +37,7 @@ This syllabus is not final and may change.
 
 9. **11.11.19** PAC-bayesian bounds: margin-based bound for deep ReLU nets. [Slides](/slides/PAC_bayesian_bounds.pdf) (pages 16-20). [Video](https://youtu.be/2xKmJuDnpLw).
 
-10. **18.11.19** Compression-based bounds: re-deriving a margin-based bound for deep ReLU nets. [Slides](/slides/PAC_bayesian_bounds.pdf) (pages 18-26). Video will be available soon.
+10. **18.11.19** Compression-based bounds: re-deriving a margin-based bound for deep ReLU nets. [Slides](/slides/PAC_bayesian_bounds.pdf) (pages 18-26). [Video](https://youtu.be/zkx3F1XlMfU).
 
 11. **2.12.19 (?)** Implicit bias of gradient descent.
 
