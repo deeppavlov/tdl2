@@ -71,7 +71,16 @@ E-mails should be named as "Lab or theory" + "number" + "-" + "Your Name and Sur
 
 ~[The 1st theoretical assignment](/hw_theory/tdl2_theory1.pdf) is out! Deadline: 4.11.2019, 12:00 Moscow time.~
 
-[The 2nd theoretical assignment](/hw_theory/tdl2_theory2.pdf) is out! Deadline: 2.12.2019, 12:00 Moscow time.
+~[The 2nd theoretical assignment](/hw_theory/tdl2_theory2.pdf) is out! Deadline: 2.12.2019, 12:00 Moscow time.~
+
+## Exam/zachet:
+
+Syllabus is [here](tdl2_exam_syllabus.pdf).
+Grading and question balance between main and auxiliary parts is not final and may change.
+**Start with digging into main part first.**
+
+**WARNING:** 
+If you have this course for zachet, and you want to have your zachet in time (i.e., in a zachet week), the only available option is December 16.
 
 ## Course staff:
 
