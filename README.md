@@ -73,7 +73,7 @@ E-mails should be named as "Lab or theory" + "number" + "-" + "Your Name and Sur
 
 ~[The 2nd theoretical assignment](/hw_theory/tdl2_theory2.pdf) is out! Deadline: 2.12.2019, 12:00 Moscow time.~
 
-[Lab assignment](/hw_lab/nn_complexity.ipynb) is out!
+[Lab assignment](/hw_lab/nn-complexity.ipynb) is out!
 Deadline: 16.12.2019, 12:00
 
 ## Exam/zachet:
